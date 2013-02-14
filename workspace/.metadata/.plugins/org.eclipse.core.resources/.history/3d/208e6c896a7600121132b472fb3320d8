@@ -48,8 +48,7 @@
                 <LinearLayout
                     android:id="@+id/Clubs"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent" 
-                    android:onClick="ClubTab">
+                    android:layout_height="match_parent" >
                 </LinearLayout>
             </FrameLayout>
         </LinearLayout>
